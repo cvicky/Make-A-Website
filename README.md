@@ -1,3 +1,2 @@
 # Make-A-Website
-HTML brush up
-CSS brush up
+HTML, CSS brush up
